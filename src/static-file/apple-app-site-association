@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "AR7T267V33.com.example.securityMobile",
+                "components": [
+               {
+                  "/": "/message/*",
+                  "exclude": true,
+                  "comment": "test demo"
+               }
+             ]
+            }
+        ]
+    },
+   "webcredentials": {
+      "apps": [ "AR7T267V33.com.example.securityMobile" ]
+    },
+    "appclips": {
+        "apps": ["AR7T267V33.com.example.securityMobile"]
+    }
+}
