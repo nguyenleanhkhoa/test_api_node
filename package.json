@@ -4,6 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
+        "dev": "nodemon --inspect src/index.js",
+        "start":"node src/index.js",
         "test": "echo \"Error\""
     },
     "author": "",
